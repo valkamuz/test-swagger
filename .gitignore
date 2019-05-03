@@ -1,0 +1,14 @@
+
+# Visual studio
+*.vs
+*.csproj.user
+TestApi/packages/
+
+
+# Bin, obj
+TestApi/bin/
+TestApi/obj/
+
+
+# Temporary files
+*~
